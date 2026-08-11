@@ -86,17 +86,17 @@ I'm a passionate developer who loves building **modern, responsive, and user-fri
 
 ## 🌱 Currently Learning
 
-<div align="center">
+## 🌱 Currently Learning
 
-| Skill | Progress |
-|---|---|
-| JavaScript | ![90%](https://progress-bar.dev/90) |
-| React | ![90%](https://progress-bar.dev/90) |
-| Python | ![85%](https://progress-bar.dev/85) |
-| Next.js | ![80%](https://progress-bar.dev/80) |
-| Django | ![75%](https://progress-bar.dev/75) |
+```text
+React ████████████████████ 90%
+Next.js ████████████████░░░░ 80%
+Python ██████████████████░░ 85%
+Django ███████████████░░░░░ 75%
+JavaScript ███████████████████░ 90%
+```
 
-</div>
+---
 
 <br>
 
