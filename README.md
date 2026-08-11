@@ -86,8 +86,6 @@ I'm a passionate developer who loves building **modern, responsive, and user-fri
 
 ## 🌱 Currently Learning
 
-## 🌱 Currently Learning
-
 ```text
 React ████████████████████ 90%
 Next.js ████████████████░░░░ 80%
