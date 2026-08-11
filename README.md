@@ -66,9 +66,9 @@ I'm a passionate developer who loves building **modern, responsive, and user-fri
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/akshayrk004/akshayrk004/output/github-contribution-grid-snake.svg" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 > ℹ️ This animated snake needs a one-time GitHub Actions setup in your profile repo ([platane/snk](https://github.com/Platane/snk)) — the image won't render until that workflow runs at least once.
 
