@@ -51,18 +51,6 @@ I'm a passionate developer who loves building **modern, responsive, and user-fri
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akshayrk004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayrk004&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=akshayrk004&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
 
 ## 🐍 Contribution Snake
 
