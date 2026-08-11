@@ -1,142 +1,141 @@
-# 👋 Hi, I'm Akshay
+<div align="center">
 
-### 💻 Full-Stack Developer | Web Developer | Python Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Akshay%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-I’m a passionate developer who loves building **modern, responsive, and user-friendly web applications**. I enjoy turning ideas into real-world projects and continuously learning new technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;Python+%2B+Django+Developer+%F0%9F%90%8D;Always+Learning+New+Tech+%F0%9F%9A%80" />
 
----
+</div>
+
+I'm a passionate developer who loves building **modern, responsive, and user-friendly web applications**. I enjoy turning ideas into real-world projects and continuously learning new technologies.
+
+<br>
 
 ## 🚀 Tech Stack
 
-### 🌐 Frontend
+<div align="center">
 
-<p>
+**🌐 Frontend**
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-### 🐍 Backend
+**🐍 Backend**
 
-<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-### 🛠️ Tools & Technologies
+**🛠️ Tools & Platforms**
 
-<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
 
----
+</div>
+
+<br>
 
 ## 🔥 What I Do
 
-* 🌐 Build responsive websites and web applications
-* ⚛️ Develop modern React applications
-* 🚀 Create scalable applications with Next.js
-* 🐍 Build Python applications and APIs
-* 🎯 Develop backend applications using Django
-* 🎨 Create clean and responsive UI designs
-* 📚 Continuously learn and explore new technologies
+- 🌐 Build responsive websites and web applications
+- ⚛️ Develop modern React applications
+- 🚀 Create scalable applications with Next.js
+- 🐍 Build Python applications and APIs
+- 🎯 Develop backend applications using Django
+- 🎨 Create clean, responsive UI designs
+- 📚 Continuously learn and explore new technologies
 
----
+<br>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akshayrk004&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akshayrk004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayrk004&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
----
+<img src="https://streak-stats.demolab.com?user=akshayrk004&theme=tokyonight&hide_border=true" />
 
-## 🔥 GitHub Streak
+</div>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<br>
 
----
+## 🐍 Contribution Snake
 
-## 🐍 My Contribution Snake
+<div align="center">
+<img src="https://raw.githubusercontent.com/akshayrk004/akshayrk004/output/github-contribution-grid-snake.svg" />
+</div>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+> ℹ️ This animated snake needs a one-time GitHub Actions setup in your profile repo ([platane/snk](https://github.com/Platane/snk)) — the image won't render until that workflow runs at least once.
 
----
+<br>
 
 ## 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshayrk004&theme=tokyo-night&hide_border=true" />
-</p>
+</div>
 
----
+<br>
 
 ## 💡 Featured Projects
 
-### 🎬 Movie Rating Web App
+<div align="center">
 
-A modern movie discovery and rating application built using React and API integration.
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🎬 **Movie Rating Web App** | A modern movie discovery and rating application built with React and API integration. | `React` `JavaScript` `Tailwind CSS` `TMDB API` |
+| 🌐 **Portfolio Website** | A responsive personal portfolio showcasing my skills, projects, and development journey. | `HTML` `CSS` `JavaScript` `React` |
+| 🐍 **Python / Django Projects** | Backend applications and APIs built with Python and Django. | `Python` `Django` `REST API` |
 
-**Tech:** `React` `JavaScript` `Tailwind CSS` `TMDB API`
+</div>
 
-### 🌐 Portfolio Website
-
-A responsive personal portfolio showcasing my skills, projects, and development journey.
-
-**Tech:** `HTML` `CSS` `JavaScript` `React`
-
-### 🐍 Python / Django Projects
-
-Backend applications and APIs built with Python and Django.
-
-**Tech:** `Python` `Django` `REST API`
-
----
+<br>
 
 ## 🌱 Currently Learning
 
-```text
-React ████████████████████ 90%
-Next.js ████████████████░░░░ 80%
-Python ██████████████████░░ 85%
-Django ███████████████░░░░░ 75%
-JavaScript ███████████████████░ 90%
-```
+<div align="center">
 
----
+| Skill | Progress |
+|---|---|
+| JavaScript | ![90%](https://progress-bar.dev/90) |
+| React | ![90%](https://progress-bar.dev/90) |
+| Python | ![85%](https://progress-bar.dev/85) |
+| Next.js | ![80%](https://progress-bar.dev/80) |
+| Django | ![75%](https://progress-bar.dev/75) |
+
+</div>
+
+<br>
 
 ## 🤝 Connect With Me
 
-<p align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<div align="center">
+
+<a href="https://github.com/akshayrk004">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/in/akshayrk004">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</p>
 
----
+</div>
 
-## ⚡ Fun Fact
+<br>
 
+<div align="center">
+
+### ⚡ Fun Fact
 > **"Code. Create. Learn. Repeat. 🚀"**
 
----
-
-<p align="center">
 ⭐ If you like my projects, consider giving them a star!
-</p>
 
-<p align="center">
-<b>Thanks for visiting my profile! 👨‍💻</b>
-</p>
+**Thanks for visiting my profile! 👨‍💻**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
